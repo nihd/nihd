@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.nihd.net/"/>
-  <updated>2019-08-23T08:19:58.212Z</updated>
+  <updated>2019-08-23T08:46:43.118Z</updated>
   <id>http://www.nihd.net/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://www.nihd.net/2019/08/21/Resilio%20Sync/"/>
     <id>http://www.nihd.net/2019/08/21/Resilio Sync/</id>
     <published>2019-08-21T07:13:23.000Z</published>
-    <updated>2019-08-23T08:19:58.212Z</updated>
+    <updated>2019-08-23T08:46:43.118Z</updated>
     
     <content type="html"><![CDATA[<p>书格</p><p><a href="http://www.shuge.org" target="_blank" rel="noopener">www.shuge.org</a></p><p>KEY:BJLHVKV3NNFXRTVP7D4EZSGB35BXWPKFD</p><p>书籍<br>key:BCAZHBTBIQL5RHPQ4RY37YMGA4HB27EBZ</p>]]></content>
     
@@ -42,10 +42,6 @@
       <category term="btsync" scheme="http://www.nihd.net/tags/btsync/"/>
     
       <category term="key" scheme="http://www.nihd.net/tags/key/"/>
-    
-      <category term="Resilio Sync" scheme="http://www.nihd.net/tags/Resilio-Sync/"/>
-    
-      <category term="Resilio Sync key" scheme="http://www.nihd.net/tags/Resilio-Sync-key/"/>
     
   </entry>
   
